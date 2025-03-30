@@ -1,4 +1,4 @@
-![Header image](https://github.com/rootxjs/info/blob/main/uploads/Grey%20White%20Minimalist%20Twitter%20Banner.png)
+![Header image](https://github.com/rootxjs/rootxjs/blob/main/uploads/Grey%20White%20Minimalist%20Twitter%20Banner.png)
 ### Hi there 👋 I'm JS !
 - Security Engineer @Zoho 
 - 📫 Reach me at 
