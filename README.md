@@ -1,6 +1,6 @@
 ![Header image](https://github.com/rootxjs/rootxjs/blob/main/uploads/Grey%20White%20Minimalist%20Twitter%20Banner.png)
 ### Hi there 👋 I'm JS !
-- Security Engineer @Zoho 
+- Security Engineer 2 @Tekion | Ex -Zoho | Red Team
 - 📫 Reach me at 
 <br></br>
 
